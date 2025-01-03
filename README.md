@@ -6,4 +6,4 @@ This repository contains the coding interview patterns that I have solved. The r
 [Two Pointers](#Two-Pointers)
 
 ### Two-Pointers
-1. [2Sum](Two Pointers/2Sum.js)
+1. [2Sum](Two-Pointers/2Sum.js)
