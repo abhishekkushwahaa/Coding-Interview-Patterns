@@ -1,3 +1,5 @@
+// Source: https://leetcode.com/problems/two-sum/
+
 let twoSum = function(nums, target) {
     for(let i=0; i<nums.length; i++) {
         for(let j=i+1; j<nums.length; j++) {
