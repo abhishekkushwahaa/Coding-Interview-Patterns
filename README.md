@@ -4,9 +4,13 @@ This repository contains the coding interview patterns that I have solved. The r
 
 ### Patterns
 [**Two Pointers**](#Two-Pointers)
+[**Hash Maps and Sets**](#Hash-Maps)
 
 ### Two-Pointers
-1. [2Sum](Two-Pointers/2Sum.js)
+1. [2Sum](Two-Pointers/2Sum.go)
 2. [3Sum](Two-Pointers/3Sum.js)
-3. [Move Zeroes](Two-Pointers/MoveZeroes.js)
+3. [Move Zeroes](Two-Pointers/MoveZeroes.go)
 4. [Container with Most Water](Two-Pointers/MostWater.js)
+
+### Hash-Maps
+1. [Zero Striping](Hash-Maps/Zero-Striping.go)
