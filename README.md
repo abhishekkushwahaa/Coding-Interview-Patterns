@@ -3,12 +3,12 @@
 This repository contains the coding interview patterns that I have solved. The repository is divided into different patterns that are commonly asked in coding interviews. The patterns are divided into different folders and each folder contains the problems related to that pattern. The problems are solved in JavaScript and Golang.
 
 ### Patterns
-[**Two Pointers**](#Two-Pointers)
-[**Hash Maps and Sets**](#Hash-Maps)
-[**Linked Lists**](#Linked-Lists)
-[**Fast and Slow Pointers**](#Fast-and-Slow-Pointers)
-[**Sliding Windows**](#Sliding-Windows)
-[**Binary Search**](#Binary-Search)
+- [**Two Pointers**](#Two-Pointers)
+- [**Hash Maps and Sets**](#Hash-Maps)
+- [**Linked Lists**](#Linked-Lists)
+- [**Fast and Slow Pointers**](#Fast-and-Slow-Pointers)
+- [**Sliding Windows**](#Sliding-Windows)
+- [**Binary Search**](#Binary-Search)
 
 ### Two-Pointers
 1. [2Sum](Two-Pointers/2Sum.go)
