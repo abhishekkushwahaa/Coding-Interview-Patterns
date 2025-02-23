@@ -9,6 +9,7 @@ This repository contains the coding interview patterns that I have solved. The r
 - [**Fast and Slow Pointers**](#Fast-and-Slow-Pointers)
 - [**Sliding Windows**](#Sliding-Windows)
 - [**Binary Search**](#Binary-Search)
+- [**Stacks**](#Stacks)
 
 ### Two-Pointers
 1. [2Sum](Two-Pointers/2Sum.go)
@@ -32,3 +33,6 @@ This repository contains the coding interview patterns that I have solved. The r
 
 ### Binary-Search
 1. [Find the Insertion Index](Binary-Search/insertion-index.go)
+
+### Stacks
+1. [Valid Parenthesis Expression](Stacks/valid-parenthesis.go)
