@@ -10,6 +10,9 @@ This repository contains the coding interview patterns that I have solved. The r
 - [**Sliding Windows**](#Sliding-Windows)
 - [**Binary Search**](#Binary-Search)
 - [**Stacks**](#Stacks)
+- [**Heaps**](#Heaps)
+- [**Intervals**](#Intervals)
+- [**Prefix Sums**](#Prefix-Sums)
 
 ### Two-Pointers
 1. [2Sum](Two-Pointers/2Sum.go)
@@ -36,3 +39,12 @@ This repository contains the coding interview patterns that I have solved. The r
 
 ### Stacks
 1. [Valid Parenthesis Expression](Stacks/valid-parenthesis.go)
+
+### Heaps
+1. [K Most Frequent String](Heaps/k-most-frequent.go)
+
+### Intervals
+1. [Merge Overlapping Intervals](Intervals/merge-overlapping.go)
+
+### Prefix-Sums
+1. [Sum Between Range](Prefix-Sums/sum-btw-range.go)
