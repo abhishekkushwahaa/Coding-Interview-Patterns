@@ -13,6 +13,15 @@ This repository contains the coding interview patterns that I have solved. The r
 - [**Heaps**](#Heaps)
 - [**Intervals**](#Intervals)
 - [**Prefix Sums**](#Prefix-Sums)
+- [**Trees**](#Trees)
+- [**Tries**](#Tries)
+- [**Graphs**](#Graphs)
+- [**Backtracking**](#Backtracking)
+- [**Dynamic Programming**](#Dynamic-Programming)
+- [**Greedy**](#Greedy)
+- [**Sort and Search**](#Sort-and-Search)
+- [**Bit Manipulation**](#Bit-Manipulation)
+- [**Math and Geometry**](#Math-and-Geometry)
 
 ### Two-Pointers
 1. [2Sum](Two-Pointers/2Sum.go)
@@ -48,3 +57,30 @@ This repository contains the coding interview patterns that I have solved. The r
 
 ### Prefix-Sums
 1. [Sum Between Range](Prefix-Sums/sum-btw-range.go)
+
+### Trees
+1. [Invert Binary Tree](Trees/invert-binary-tree.go)
+
+### Tries
+1. [Design a Trie](Tries/design-trie.go)
+
+### Graphs
+1. [Graph Clone](Graphs/graph-clone.go)
+
+### Backtracking
+1. [Find All Permutations](Backtracking/find-all-permutations.go)
+
+### Dynamic-Programming
+1. [Climbing Stairs](Dynamic-Programming/climbing-stairs.go)
+
+### Greedy
+1. [Jump to the End](Greedy/jump-to-end.go)
+
+### Sort-and-Search
+1. [Sort Linked List](Sort-and-Search/sort-ll.go)
+
+### Bit-Manipulation
+1. [Hamming Weights of Integers](Bit-Manipulation/hamming-weights-int.go)
+
+### Math-and-Geometry
+1. [Spiral Traversal](Math-and-Geometry/spiral-traversal.go)
