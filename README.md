@@ -28,6 +28,7 @@ This repository contains the coding interview patterns that I have solved. The r
 2. [3Sum](Two-Pointers/3Sum.js)
 3. [Move Zeroes](Two-Pointers/MoveZeroes.go)
 4. [Container with Most Water](Two-Pointers/MostWater.js)
+5. [Next Permutation](Two-Pointers/next-permutation.go)
 
 ### Hash-Maps
 1. [Zero Striping](Hash-Maps/Zero-Striping.go)

@@ -1,6 +1,6 @@
 // LeetCode: https://leetcode.com/problems/two-sum/
 // Example: twoSum([]int{2, 7, 11, 15}, 9) => [0, 1]
-package Two_Pointers
+package main
 
 import "sort"
 
