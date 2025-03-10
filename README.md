@@ -33,6 +33,7 @@ This repository contains the coding interview patterns that I have solved. The r
 ### Hash-Maps
 1. [Zero Striping](Hash-Maps/Zero-Striping.go)
 2. [Valid Sudoku](Hash-Maps/valid-sudoku.go)
+3. [Number of Good Ways to Split a String](Hash-Maps/nums-spilt.go)
 
 ### Linked-Lists
 1. [Linked List Reversal](Linked-Lists/ll-reversal.go)
