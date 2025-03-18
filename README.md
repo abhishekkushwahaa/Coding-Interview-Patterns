@@ -48,6 +48,7 @@ This repository contains the coding interview patterns that I have solved. The r
 
 ### Sliding-Windows
 1. [Substring Anagrams](Sliding-Windows/substring-anagrams.go)
+2. [Longest Substring With Unique Characters](Sliding-Windows/long-unique-char.go)
 
 ### Binary-Search
 1. [Find the Insertion Index](Binary-Search/insertion-index.go)
