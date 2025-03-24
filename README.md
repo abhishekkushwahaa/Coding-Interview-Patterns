@@ -45,6 +45,7 @@ This repository contains the coding interview patterns that I have solved. The r
 ### Fast-and-Slow-Pointers
 1. [Linked List Loop](Fast-and-Slow-Pointers/ll-loop.go)
 2. [Linked List Midpoint](Fast-and-Slow-Pointers/ll-midpoint.go)
+3. [Happy Number](Fast-and-Slow-Pointers/happy-num.go)
 
 ### Sliding-Windows
 1. [Substring Anagrams](Sliding-Windows/substring-anagrams.go)
