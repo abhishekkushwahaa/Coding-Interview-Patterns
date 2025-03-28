@@ -41,6 +41,7 @@ This repository contains the coding interview patterns that I have solved. The r
 2. [Remove the Kth Last Node from a Linked List](Linked-Lists/ll-remove-kth-node.go)
 3. [Linked List Intersection](Linked-Lists/ll-intersection.go)
 4. [Longest Consecutive Sequence](Linked-Lists/long-seq.go)
+5. [LRU Cache](Linked-Lists/lru-cache.go)
 
 ### Fast-and-Slow-Pointers
 1. [Linked List Loop](Fast-and-Slow-Pointers/ll-loop.go)
