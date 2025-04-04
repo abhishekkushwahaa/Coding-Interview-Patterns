@@ -57,6 +57,7 @@ This repository contains the coding interview patterns that I have solved. The r
 ### Binary-Search
 1. [Find the Insertion Index](Binary-Search/insertion-index.go)
 2. [Fisrt and Last Occurrences of a Number](Binary-Search/first-last-occur.go)
+3. [Cutting Wood](Binary-Search/cutting-wood.go)
 
 ### Stacks
 1. [Valid Parenthesis Expression](Stacks/valid-parenthesis.go)
