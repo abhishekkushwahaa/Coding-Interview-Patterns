@@ -64,6 +64,7 @@ This repository contains the coding interview patterns that I have solved. The r
 1. [Valid Parenthesis Expression](Stacks/valid-parenthesis.go)
 2. [Next Lergest Number to the Right](Stacks/next-large-num.go)
 3. [Evaluate Expression](Stacks/evaluate-expres.go)
+4. [Implement a Queue Using Stacks](Stacks/Queue-using-stack.go)
 
 ### Heaps
 1. [K Most Frequent String](Heaps/k-most-frequent.go)
