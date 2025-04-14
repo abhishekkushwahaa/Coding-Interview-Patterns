@@ -97,6 +97,7 @@ This repository contains the coding interview patterns that I have solved. The r
 
 ### Sort-and-Search
 1. [Sort Linked List](Sort-and-Search/sort-ll.go)
+2. [Sort Array](Sort-and-Search/sort-arr.go)
 
 ### Bit-Manipulation
 1. [Hamming Weights of Integers](Bit-Manipulation/hamming-weights-int.go)
