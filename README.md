@@ -104,3 +104,4 @@ This repository contains the coding interview patterns that I have solved. The r
 
 ### Math-and-Geometry
 1. [Spiral Traversal](Math-and-Geometry/spiral-traversal.go)
+2. [Palindrome Number](Math-and-Geometry/palindrome-num.go)
