@@ -36,6 +36,7 @@ This repository contains the coding interview patterns that I have solved. The r
 3. [Number of Good Ways to Split a String](Hash-Maps/nums-spilt.go)
 4. [Group Anagrams](Hash-Maps/group-anagrams.go)
 5. [Longest Consecutive Sequence](Hash-Maps/long-consequence.go)
+6. [Destination City](Hash-Maps/destination-city.go)
 
 ### Linked-Lists
 1. [Linked List Reversal](Linked-Lists/ll-reversal.go)
