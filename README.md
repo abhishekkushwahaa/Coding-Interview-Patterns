@@ -45,6 +45,7 @@ This repository contains the coding interview patterns that I have solved. The r
 4. [Longest Consecutive Sequence](Linked-Lists/long-seq.go)
 5. [LRU Cache](Linked-Lists/lru-cache.go)
 6. [Reverse Nodes in k-Group](Linked-Lists/reverse-node-k.go)
+7. [Reorder List](Linked-Lists/reorder-list.js)
 
 ### Fast-and-Slow-Pointers
 1. [Linked List Loop](Fast-and-Slow-Pointers/ll-loop.go)
