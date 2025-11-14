@@ -5,19 +5,24 @@ class Node {
   }
 }
 
-function midPoint(head) {
+function deleteKthNode(head, k) {
+  let dummy = { value: -1, next: head }
+  let slow = dummy
+  let fast = dummy
 
-  if (!head) return null;
-
-  let slow = head;
-  let fast = head;
-
-  while (fast !== null && fast.next !== null) {
-    slow = slow.next
-    fast = fast.next.next
+  for (let i = 0; i < k; i++) {
+    fast = fast.next
   }
 
-  return slow;
+  while (fast.next) {
+    slow = slow.next
+    fast = fast.next
+  }
+
+  // Delete node
+  slow.next = slow.next.next;
+
+  return dummy.next;
 }
 
 function printList(head) {
@@ -31,11 +36,10 @@ function printList(head) {
   console.log(result.join(" -> "))
 }
 
-let list = new Node(2);
-list.next = new Node(3);
-list.next.next = new Node(5);
-list.next.next.next = new Node(7);
+let list = new Node(2)
+list.next = new Node(4)
+list.next.next = new Node(6)
+list.next.next.next = new Node(8)
 
-let midPointofList = midPoint(list)
-// printList(midPointofList.result);
-console.log(midPointofList.value)
+let DeleteNode = deleteKthNode(list, 2)
+printList(DeleteNode)
